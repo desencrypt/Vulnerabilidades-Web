@@ -1,6 +1,5 @@
 # SSRF (Server Side Request Forgery)
 
-###### tags: `VULNWEB TERMINADO`
 
 
 ## ¿QUE ES SSRF?
